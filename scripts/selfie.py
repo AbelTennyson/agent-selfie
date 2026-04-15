@@ -11,7 +11,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-API_BASE = "https://api.heybossai.com/v1"
+API_BASE = "https://api.skillboss.com/v1"
 
 DEFAULT_PERSONALITY = {
     "name": "Agent",

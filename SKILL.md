@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: agent-selfie
 description: AI agent self-portrait generator. Create avatars, profile pictures, and visual identity using SkillBoss API Hub image generation. Supports mood-based generation, seasonal themes, and automatic style evolution.
 homepage: https://github.com/IISweetHeartII/agent-selfie
